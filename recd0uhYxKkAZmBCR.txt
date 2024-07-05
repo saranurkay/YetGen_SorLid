@@ -1,0 +1,200 @@
+ID: rec0TmhHBc4EY1Zo1
+Ad: Babita
+Soyad: Angrove
+Okul: Tekirdağ Namık Kemal Üniversitesi
+Şehir: Tekirdağ
+Bolum: Hukuk
+Cinsiyet: Female
+Ilgi Alanı: Dağcılık
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: rec1DrdVPOmxy4e7V
+Ad: Rodd
+Soyad: Fyfield
+Okul: İstanbul Kemerburgaz Üniversitesi
+Şehir: İstanbul
+Bolum: Veterinerlik
+Cinsiyet: Male
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: rec5I8FQ2pj1Z2Umn
+Ad: Lorain
+Soyad: Esel
+Okul: Sabancı Üniversitesi
+Şehir: İstanbul
+Bolum: Tıp
+Cinsiyet: Female
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recPbnoeDO0xCsUW3
+Ad: Aguste
+Soyad: Doyle
+Okul: Lise
+Şehir: Ankara
+Bolum: Yok
+Cinsiyet: Male
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recHawPxSKZSDzHtT
+Ad: Vito
+Soyad: Caban
+Okul: İstanbul Ticaret Üniversitesi
+Şehir: İstanbul
+Bolum: Ekonomi
+Cinsiyet: Male
+Ilgi Alanı: Koleksiyonculuk
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recM4wCy0opDATzD3
+Ad: Rosene
+Soyad: Hartwell
+Okul: Sabancı Üniversitesi
+Şehir: İstanbul
+Bolum: Deniz Bilimleri
+Cinsiyet: Male
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rec11775m2YEJq6gQ
+Ad: Calli
+Soyad: Gatiss
+Okul: Türkiye Yüksek İhtisas Üniversitesi
+Şehir: Ankara
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recenwUCe7TzZjYI8
+Ad: Reider
+Soyad: Foxten
+Okul: İstanbul Rumeli Üniversitesi
+Şehir: İstanbul
+Bolum: Tıp
+Cinsiyet: Male
+Ilgi Alanı: Astronomi
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recQv2zsm7xsLkLHk
+Ad: Francis
+Soyad: McCleary
+Okul: Mersin Üniversitesi
+Şehir: Mersin
+Bolum: Ziraat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Bilim Kurgu
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: rec4j6wWP4I1DbqtK
+Ad: Cletis
+Soyad: Spinas
+Okul: Recep Tayyip Erdoğan Üniversitesi
+Şehir: Rize
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: rec3ZDpJDVGIDpgQY
+Ad: Kylynn
+Soyad: Ciobutaru
+Okul: Dokuz Eylül Üniversitesi
+Şehir: İzmir
+Bolum: Tarım Bilimleri
+Cinsiyet: Female
+Ilgi Alanı: Fitness
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: reckkgw95FLenWjqu
+Ad: Rosabel
+Soyad: Wringe
+Okul: İstanbul Şehir Üniversitesi
+Şehir: İstanbul
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rectDzfysUjKnLPvd
+Ad: Kelvin
+Soyad: Triplow
+Okul: Giresun Üniversitesi
+Şehir: Giresun
+Bolum: Mühendislik Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recj82IeCDy7Taxxn
+Ad: Bernie
+Soyad: Lepere
+Okul: Hacettepe Üniversitesi
+Şehir: Ankara
+Bolum: Eğitim Fakültesi
+Cinsiyet: Female
+Ilgi Alanı: Yoga
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recaUx5EDABnDZpAe
+Ad: Georg
+Soyad: Loddy
+Okul: Atatürk Üniversitesi
+Şehir: Erzurum
+Bolum: Tarım Bilimleri
+Cinsiyet: Male
+Ilgi Alanı: Yazılım Geliştirme
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: rechGSxeZxD2wjcgR
+Ad: Emmerich
+Soyad: Sclater
+Okul: Lise
+Şehir: Ankara
+Bolum: Yok
+Cinsiyet: Male
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recffcEEQaJM3lE7S
+Ad: Evangelia
+Soyad: Essberger
+Okul: Sinop Üniversitesi
+Şehir: Sinop
+Bolum: Elektrik ve Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Tiyatro
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: rec3GL4RBGfYMUs9Y
+Ad: Dian
+Soyad: Haycox
+Okul: Dumlupınar Üniversitesi
+Şehir: Kütahya
+Bolum: Turizm
+Cinsiyet: Female
+Ilgi Alanı: Yaratıcı Yazarlık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recjNdDLe2XnsxyWl
+Ad: Jessika
+Soyad: Kovelmann
+Okul: İzmir Yüksek Teknoloji Enstitüsü
+Şehir: İzmir
+Bolum: Eczacılık
+Cinsiyet: Female
+Ilgi Alanı: Yaratıcı Yazarlık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: rec0W0GhcOkk2JwgK
+Ad: Paxon
+Soyad: Rothera
+Okul: Atatürk Üniversitesi
+Şehir: Erzurum
+Bolum: Ekonomi
+Cinsiyet: Male
+Ilgi Alanı: Yaratıcı Yazarlık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************

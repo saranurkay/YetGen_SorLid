@@ -1,0 +1,200 @@
+ID: rec2raJ4FCSNwDX4N
+Ad: Yurik
+Soyad: Plaxton
+Okul: Yaşar Üniversitesi
+Şehir: İzmir
+Bolum: Ziraat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Web Tasarımı
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: rec8GbZTmSY0ZJXyb
+Ad: Allard
+Soyad: Druhan
+Okul: Pamukkale Üniversitesi
+Şehir: Denizli
+Bolum: Veterinerlik
+Cinsiyet: Male
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recMiyksYhwM9o27O
+Ad: Vita
+Soyad: Cains
+Okul: Dokuz Eylül Üniversitesi
+Şehir: İzmir
+Bolum: Fizik
+Cinsiyet: Female
+Ilgi Alanı: Balık Tutma
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recZfU9x7wAIk46Ax
+Ad: Tobit
+Soyad: Chaudret
+Okul: Dumlupınar Üniversitesi
+Şehir: Kütahya
+Bolum: Mimarlık
+Cinsiyet: Male
+Ilgi Alanı: Şiir Yazma
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recpQTtvYablo5Wcc
+Ad: Ambros
+Soyad: Penniall
+Okul: Lise
+Şehir: İstanbul
+Bolum: Yok
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recC4akjfbHscD9Cc
+Ad: Cynthea
+Soyad: Hackney
+Okul: Koç Üniversitesi
+Şehir: İstanbul
+Bolum: İktisat
+Cinsiyet: Male
+Ilgi Alanı: Tiyatro
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: rechgAA4tG8Jc4guv
+Ad: Yank
+Soyad: Dukes
+Okul: Yüksek İhtisas Üniversitesi
+Şehir: Ankara
+Bolum: Elektrik-Elektronik Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recm7fddHeWMGypK3
+Ad: Brew
+Soyad: Vaughten
+Okul: İstanbul Yeni Yüzyıl Üniversitesi
+Şehir: İstanbul
+Bolum: Arkeoloji
+Cinsiyet: Male
+Ilgi Alanı: Yemek Yapma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recDbd225OVRaDVY7
+Ad: Jordan
+Soyad: Kilbey
+Okul: Ankara Üniversitesi
+Şehir: Ankara
+Bolum: Turizm
+Cinsiyet: Male
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: reckkgw95FLenWjqu
+Ad: Rosabel
+Soyad: Wringe
+Okul: İstanbul Şehir Üniversitesi
+Şehir: İstanbul
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recse1gZMW5sCfW5E
+Ad: Estelle
+Soyad: Jedrasik
+Okul: İnönü Üniversitesi
+Şehir: Malatya
+Bolum: Tıp
+Cinsiyet: Female
+Ilgi Alanı: Web Tasarımı
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recjUiEuCvIrEXgY2
+Ad: Langsdon
+Soyad: Aleksich
+Okul: Anadolu Üniversitesi
+Şehir: Eskişehir
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recNuTkGMUFA0DfeW
+Ad: Doria
+Soyad: Comar
+Okul: Sinop Üniversitesi
+Şehir: Sinop
+Bolum: Veterinerlik
+Cinsiyet: Female
+Ilgi Alanı: E-spor
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recjJcgBdQZ7AgrCi
+Ad: Eliot
+Soyad: Bulward
+Okul: Rize Üniversitesi
+Şehir: Rize
+Bolum: Fizik
+Cinsiyet: Male
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recTauVws3Z4SQHTh
+Ad: Wendall
+Soyad: Atack
+Okul: Ordu Üniversitesi
+Şehir: Ordu
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Balık Tutma
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: rec2q2bI7ZM4uT9PQ
+Ad: Anatollo
+Soyad: Brownsmith
+Okul: Maltepe Üniversitesi
+Şehir: İstanbul
+Bolum: Hukuk
+Cinsiyet: Male
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recDtKXNd099tP7sZ
+Ad: Berkeley
+Soyad: Petracchi
+Okul: İstanbul Haliç Üniversitesi
+Şehir: İstanbul
+Bolum: Ekonomi
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recyzkSVGfkEIR0s7
+Ad: Eda
+Soyad: de Nore
+Okul: Sakarya Üniversitesi
+Şehir: Sakarya
+Bolum: Tıp
+Cinsiyet: Male
+Ilgi Alanı: Meditasyon
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recOqslHnOCEV06ii
+Ad: Joceline
+Soyad: Gritsunov
+Okul: Gaziantep Üniversitesi
+Şehir: Gaziantep
+Bolum: Tıp
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recBo8mkMW5dQ5YA6
+Ad: Fergus
+Soyad: Telezhkin
+Okul: İstanbul Bilim Üniversitesi
+Şehir: İstanbul
+Bolum: Tıp
+Cinsiyet: Male
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************

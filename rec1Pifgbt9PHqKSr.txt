@@ -1,0 +1,200 @@
+ID: rec3eFdsLLdsTiTw6
+Ad: Richardo
+Soyad: Helian
+Okul: Kastamonu Üniversitesi
+Şehir: Kastamonu
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: rec84jJQDE2ACYoy7
+Ad: Tabbatha
+Soyad: Coghlan
+Okul: Karadeniz Teknik Üniversitesi (KTÜ)
+Şehir: Trabzon
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Resim
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recJ4De9Xj1lys7Iv
+Ad: Pru
+Soyad: Rutt
+Okul: Ondokuz Mayıs Üniversitesi
+Şehir: Samsun
+Bolum: Beden Eğitimi ve Spor Öğretmenliği
+Cinsiyet: Female
+Ilgi Alanı: Balık Tutma
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recrBwVNxIZCeqCcC
+Ad: Morly
+Soyad: Hallitt
+Okul: Ankara Üniversitesi
+Şehir: Ankara
+Bolum: Tıp
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recKIicuDOJG4roOj
+Ad: Nike
+Soyad: Durnan
+Okul: Türk-Alman Üniversitesi
+Şehir: İstanbul
+Bolum: Eğitim Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recgURROxhey9EVJB
+Ad: Amber
+Soyad: Benzies
+Okul: Türkiye Odalar ve Borsalar Birliği Üniversitesi
+Şehir: Ankara
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: E-spor
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recS3QM4HrP4VFr7d
+Ad: Constancia
+Soyad: Binny
+Okul: İstanbul Kultur University
+Şehir: İstanbul
+Bolum: İktisat
+Cinsiyet: Male
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recGFzZl9lzpwxAd5
+Ad: Cecilla
+Soyad: Tixall
+Okul: İstanbul Bilim Üniversitesi
+Şehir: İstanbul
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Fitness
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recBZ724sWLoILSFG
+Ad: Kelly
+Soyad: Piaggia
+Okul: Tekirdağ Namık Kemal Üniversitesi
+Şehir: Tekirdağ
+Bolum: Mühendislik Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Dans
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recux2N6YrONcIEoY
+Ad: Rodina
+Soyad: Roddy
+Okul: İstanbul Aydın Üniversitesi
+Şehir: İstanbul
+Bolum: Veterinerlik
+Cinsiyet: Female
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recQeMpKV98abR3AU
+Ad: Ebonee
+Soyad: Tennant
+Okul: İstanbul Sabahattin Zaim Üniversitesi
+Şehir: İstanbul
+Bolum: Mühendislik Fakültesi
+Cinsiyet: Female
+Ilgi Alanı: Şiir Yazma
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recALCxIACkgIp2j4
+Ad: Arlyne
+Soyad: Castagna
+Okul: İstanbul Rumeli Üniversitesi
+Şehir: İstanbul
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Fotoğrafçılık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recpSu9YGxQYi54dp
+Ad: Gearalt
+Soyad: Filippello
+Okul: Tekirdağ Namık Kemal Üniversitesi
+Şehir: Tekirdağ
+Bolum: Turizm
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recAGVXEFlDfwoNSu
+Ad: Lenee
+Soyad: Cunningham
+Okul: İstanbul Kemerburgaz Üniversitesi
+Şehir: İstanbul
+Bolum: Eczacılık
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recVHXzdtcguX3Tb2
+Ad: Emory
+Soyad: Avrahm
+Okul: Sabancı Üniversitesi
+Şehir: İstanbul
+Bolum: Tıp
+Cinsiyet: Female
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rec8ue08RCqTKNr9P
+Ad: Curtice
+Soyad: Raiman
+Okul: Koç Üniversitesi Anadolu
+Şehir: İstanbul
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Hayvan Bakımı
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: rec3ddoL9JmGg7lIK
+Ad: Carline
+Soyad: Copnell
+Okul: Fatih Sultan Mehmet Üniversitesi
+Şehir: İstanbul
+Bolum: Ekonomi
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recG6yRVKcfQuXh3m
+Ad: Efren
+Soyad: Rubinfajn
+Okul: İstanbul Yeni Yüzyıl Üniversitesi
+Şehir: İstanbul
+Bolum: Deniz Bilimleri
+Cinsiyet: Male
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recGuj9HO5nkcXN61
+Ad: Lucia
+Soyad: Rowet
+Okul: Mersin Üniversitesi
+Şehir: Mersin
+Bolum: Elektrik ve Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Yoga
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recffcEEQaJM3lE7S
+Ad: Evangelia
+Soyad: Essberger
+Okul: Sinop Üniversitesi
+Şehir: Sinop
+Bolum: Elektrik ve Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Tiyatro
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************

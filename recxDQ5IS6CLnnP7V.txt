@@ -1,0 +1,200 @@
+ID: rec2bECudQs9oO69h
+Ad: Gage
+Soyad: Orkney
+Okul: Ege Üniversitesi
+Şehir: İzmir
+Bolum: Orman Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Dans
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: rec2raJ4FCSNwDX4N
+Ad: Yurik
+Soyad: Plaxton
+Okul: Yaşar Üniversitesi
+Şehir: İzmir
+Bolum: Ziraat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Web Tasarımı
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recZwHtl3MXkOvSHJ
+Ad: Wylma
+Soyad: Blasgen
+Okul: Pamukkale Üniversitesi
+Şehir: Denizli
+Bolum: İşletme
+Cinsiyet: Female
+Ilgi Alanı: Hayvan Bakımı
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recEo509q34stX542
+Ad: Laina
+Soyad: Champneys
+Okul: İzmir Ekonomi Üniversitesi
+Şehir: İzmir
+Bolum: Eczacılık
+Cinsiyet: Female
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recRaNvewLTyYgXtU
+Ad: Virgina
+Soyad: Crosio
+Okul: İstanbul Yeni Yüzyıl Üniversitesi
+Şehir: İstanbul
+Bolum: Elektrik ve Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Web Tasarımı
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recLJH3HQjTdFHmZq
+Ad: Dorene
+Soyad: Clue
+Okul: Nevşehir Hacı Bektaş Veli Üniversitesi
+Şehir: Nevşehir
+Bolum: İşletme
+Cinsiyet: Female
+Ilgi Alanı: Hayvan Bakımı
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recoRsfCOHqtsc3FS
+Ad: Lynnette
+Soyad: Heimann
+Okul: Trakya Üniversitesi
+Şehir: Edirne
+Bolum: İşletme
+Cinsiyet: Female
+Ilgi Alanı: Hayvan Bakımı
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recXdn2Yf3ZrsqVuu
+Ad: Perl
+Soyad: Haslock
+Okul: Kastamonu Üniversitesi
+Şehir: Kastamonu
+Bolum: Elektrik ve Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: E-spor
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recJ3pNj0jmJ6j0N1
+Ad: Aubrie
+Soyad: Hamberstone
+Okul: İstanbul Altınbaş Üniversitesi
+Şehir: İstanbul
+Bolum: Ziraat Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Fitness
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: rectPstLjZTaDKvsM
+Ad: Farah
+Soyad: Beig
+Okul: İstanbul Kultur University
+Şehir: İstanbul
+Bolum: Veterinerlik
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recKIicuDOJG4roOj
+Ad: Nike
+Soyad: Durnan
+Okul: Türk-Alman Üniversitesi
+Şehir: İstanbul
+Bolum: Eğitim Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recvlQlNWci4LXFnh
+Ad: Hilary
+Soyad: Saxon
+Okul: İstanbul Arel Üniversitesi
+Şehir: İstanbul
+Bolum: Eğitim Fakültesi
+Cinsiyet: Female
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: rec2aDwwUG90SSJgJ
+Ad: Madison
+Soyad: Jerrome
+Okul: Bozok Üniversitesi
+Şehir: Yozgat
+Bolum: Mühendislik Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: rec695ZmpMxYrpt0t
+Ad: Mauricio
+Soyad: Perulli
+Okul: Selçuk Üniversitesi
+Şehir: Konya
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recKkixhmyWScSwdt
+Ad: Marion
+Soyad: Moretto
+Okul: Pamukkale Üniversitesi
+Şehir: Denizli
+Bolum: Mimarlık
+Cinsiyet: Female
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: reclU4bjtrpQltn2V
+Ad: Ira
+Soyad: Hiers
+Okul: Anadolu Üniversitesi
+Şehir: Eskişehir
+Bolum: Eczacılık
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recmxYd9EHmEIcM0g
+Ad: Anissa
+Soyad: Preskett
+Okul: Sabahattin Zaim Üniversitesi
+Şehir: İstanbul
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Yemek Yapma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recBd7qIGFBAODOXR
+Ad: Paquito
+Soyad: Paynter
+Okul: Akdeniz Üniversitesi
+Şehir: Antalya
+Bolum: Hukuk
+Cinsiyet: Male
+Ilgi Alanı: Tiyatro
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recMRdU1bUUZrAXoZ
+Ad: Giacobo
+Soyad: Fair
+Okul: Fatih Sultan Mehmet Üniversitesi
+Şehir: İstanbul
+Bolum: Makine Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Yazılım Geliştirme
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recNnLONLwNI1IyPv
+Ad: Nat
+Soyad: Tole
+Okul: Lise
+Şehir: İstanbul
+Bolum: Yok
+Cinsiyet: Female
+Ilgi Alanı: Fitness
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************

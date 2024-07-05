@@ -1,0 +1,200 @@
+ID: rec1Fig0cZuqt4Dq2
+Ad: Kent
+Soyad: Whistlecroft
+Okul: İnönü Üniversitesi
+Şehir: Malatya
+Bolum: Hukuk
+Cinsiyet: Male
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recYQ5K6FIiJ3StAM
+Ad: Remy
+Soyad: De Lorenzo
+Okul: Van Yüzüncü Yıl Üniversitesi
+Şehir: Van
+Bolum: Tarım Bilimleri
+Cinsiyet: Female
+Ilgi Alanı: Kampçılık
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recoTAJTnzK6W7noQ
+Ad: Mellisa
+Soyad: Jope
+Okul: Bozok Üniversitesi
+Şehir: Yozgat
+Bolum: Mimarlık
+Cinsiyet: Female
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recZYl6yAk1LDUibi
+Ad: Fionna
+Soyad: Jull
+Okul: Giresun Üniversitesi
+Şehir: Giresun
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recwQZZ16qCkOtF9k
+Ad: Chick
+Soyad: Froude
+Okul: İstanbul Sabahattin Zaim Üniversitesi
+Şehir: İstanbul
+Bolum: Orman Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Bilim Kurgu
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: rec6XKj0PgqK29EcI
+Ad: Ruddie
+Soyad: Porter
+Okul: Bilkent Üniversitesi
+Şehir: Ankara
+Bolum: Orman Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Yazılım Geliştirme
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recf3SfZHR4fAjHia
+Ad: Elvin
+Soyad: Pitkethly
+Okul: Adnan Menderes Üniversitesi
+Şehir: Aydın
+Bolum: Hukuk
+Cinsiyet: Male
+Ilgi Alanı: Fotoğrafçılık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recFvXc548jd39b1g
+Ad: Levi
+Soyad: Larrad
+Okul: Akdeniz Üniversitesi
+Şehir: Antalya
+Bolum: Turizm
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recDpTAooIGe3lwTi
+Ad: Buddie
+Soyad: Gane
+Okul: Ordu Üniversitesi
+Şehir: Ordu
+Bolum: Elektrik ve Elektronik Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Astronomi
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recRJgnE4Tw37PYzF
+Ad: Niki
+Soyad: Geroldi
+Okul: Erciyes Üniversitesi
+Şehir: Kayseri
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recGpEoXYWCeHp0Ju
+Ad: Aldric
+Soyad: Welldrake
+Okul: İstanbul Ticaret Üniversitesi
+Şehir: İstanbul
+Bolum: Eğitim Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Meditasyon
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recia7APcdoADYIAH
+Ad: Seka
+Soyad: Colum
+Okul: Kastamonu Üniversitesi
+Şehir: Kastamonu
+Bolum: Mühendislik Fakültesi
+Cinsiyet: Female
+Ilgi Alanı: Fotoğrafçılık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recXl7WeXbJwxmfhn
+Ad: Ingelbert
+Soyad: Constantine
+Okul: Rize Üniversitesi
+Şehir: Rize
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recTcFtKmzJ0dOuMI
+Ad: Seana
+Soyad: Peaseman
+Okul: Mersin Üniversitesi
+Şehir: Mersin
+Bolum: Tıp
+Cinsiyet: Male
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recgBQPcCNhO8Uanz
+Ad: Florri
+Soyad: Plascott
+Okul: İzmir Yüksek Teknoloji Enstitüsü
+Şehir: İzmir
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Şiir Yazma
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recNOEcdUJLmkeDZl
+Ad: Fanny
+Soyad: Raimbauld
+Okul: İstanbul Arel Üniversitesi
+Şehir: İstanbul
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rec99QuT2dyTeRCom
+Ad: Raddy
+Soyad: Meates
+Okul: Erciyes Üniversitesi
+Şehir: Kayseri
+Bolum: Ekonomi
+Cinsiyet: Male
+Ilgi Alanı: Sosyal Medya
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recW0tZ5mGqyNCemf
+Ad: Meade
+Soyad: Deverson
+Okul: Çukurova Üniversitesi
+Şehir: Adana
+Bolum: Eğitim Fakültesi
+Cinsiyet: Female
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: rec4cDmBVE83Q0MQ6
+Ad: Meredeth
+Soyad: Griffe
+Okul: Sabancı Üniversitesi
+Şehir: İstanbul
+Bolum: Hukuk
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recavQ6UBNSSux49f
+Ad: Robin
+Soyad: Petera
+Okul: Hakkari Üniversitesi
+Şehir: Hakkari
+Bolum: Ziraat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************

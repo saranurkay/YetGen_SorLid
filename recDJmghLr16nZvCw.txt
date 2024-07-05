@@ -1,0 +1,200 @@
+ID: rec3rz5Ps43hqu2t5
+Ad: Josselyn
+Soyad: Clemonts
+Okul: Çukurova Üniversitesi
+Şehir: Adana
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recBd7qIGFBAODOXR
+Ad: Paquito
+Soyad: Paynter
+Okul: Akdeniz Üniversitesi
+Şehir: Antalya
+Bolum: Hukuk
+Cinsiyet: Male
+Ilgi Alanı: Tiyatro
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recrFKRwuJLKAsg4t
+Ad: Corbin
+Soyad: Calcutt
+Okul: Süleyman Demirel Üniversitesi
+Şehir: Isparta
+Bolum: Tarım Bilimleri
+Cinsiyet: Male
+Ilgi Alanı: Meditasyon
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recsNYQnd0ZlAT7az
+Ad: Angela
+Soyad: Mc Ilwrick
+Okul: Doğuş Üniversitesi
+Şehir: İstanbul
+Bolum: Mimarlık
+Cinsiyet: Female
+Ilgi Alanı: Yaratıcı Yazarlık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recz8aLVjEvrZFRzI
+Ad: Garvin
+Soyad: Verring
+Okul: Kastamonu Üniversitesi
+Şehir: Kastamonu
+Bolum: Veterinerlik
+Cinsiyet: Male
+Ilgi Alanı: Yaratıcı Yazarlık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recwzWGAiETZ2Fw4s
+Ad: Raven
+Soyad: Stukings
+Okul: İstanbul Üniversitesi
+Şehir: İstanbul
+Bolum: Deniz Bilimleri
+Cinsiyet: Female
+Ilgi Alanı: Yemek Yapma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recHczhRzm0erDcQg
+Ad: Dalila
+Soyad: Kraft
+Okul: İstanbul Üniversitesi
+Şehir: İstanbul
+Bolum: Mimarlık
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recfEagX1pWztYtJ2
+Ad: Brenna
+Soyad: Spinnace
+Okul: Van Yüzüncü Yıl Üniversitesi
+Şehir: Van
+Bolum: Elektrik-Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recgBQPcCNhO8Uanz
+Ad: Florri
+Soyad: Plascott
+Okul: İzmir Yüksek Teknoloji Enstitüsü
+Şehir: İzmir
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Şiir Yazma
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recKIicuDOJG4roOj
+Ad: Nike
+Soyad: Durnan
+Okul: Türk-Alman Üniversitesi
+Şehir: İstanbul
+Bolum: Eğitim Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: reca0D3awxLretVm7
+Ad: Laurie
+Soyad: Gedge
+Okul: Selçuk Üniversitesi
+Şehir: Konya
+Bolum: Makine Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recmO8CtpgiWk3ER4
+Ad: Abbot
+Soyad: Dunguy
+Okul: Artvin Çoruh Üniversitesi
+Şehir: Artvin
+Bolum: Eğitim Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Yemek Yapma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recNj7Sq37Oj1ZNqO
+Ad: Marya
+Soyad: Mattisssen
+Okul: Bahçeşehir Üniversitesi
+Şehir: İstanbul
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recBC2kikFUNnBhCs
+Ad: Welsh
+Soyad: Conville
+Okul: Türkiye Odalar ve Borsalar Birliği Üniversitesi
+Şehir: Ankara
+Bolum: Eğitim Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Kampçılık
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: rec12jiPdVTR1GFmj
+Ad: Belinda
+Soyad: Ballam
+Okul: Anadolu Üniversitesi Yerleşik
+Şehir: Eskişehir
+Bolum: Tıp
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recpgEPZjlOfyPssX
+Ad: Spike
+Soyad: Crinion
+Okul: Yeditepe Üniversitesi
+Şehir: İstanbul
+Bolum: Tarım Bilimleri
+Cinsiyet: Male
+Ilgi Alanı: Dans
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: reczsUsI40fNolYdr
+Ad: Sandor
+Soyad: Gerram
+Okul: İstanbul Bilim Üniversitesi
+Şehir: İstanbul
+Bolum: Eczacılık
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recu5zBv0GkHGEWZD
+Ad: Delinda
+Soyad: Devall
+Okul: Eskişehir Teknik Üniversitesi
+Şehir: Eskişehir
+Bolum: Mimarlık
+Cinsiyet: Female
+Ilgi Alanı: Fitness
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recgIijIQu9SxVZa0
+Ad: Esmaria
+Soyad: Merrall
+Okul: Anadolu Üniversitesi Açıköğretim Fakültesi
+Şehir: Eskişehir
+Bolum: Tıp
+Cinsiyet: Female
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recbqIdRluX0Ea6He
+Ad: Rhianna
+Soyad: Luna
+Okul: Gaziantep Üniversitesi
+Şehir: Gaziantep
+Bolum: Elektrik-Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************

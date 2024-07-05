@@ -1,0 +1,200 @@
+ID: rec1IbmcDFZzsQbET
+Ad: Aldwin
+Soyad: Pharaoh
+Okul: Ankara Üniversitesi
+Şehir: Ankara
+Bolum: Veterinerlik
+Cinsiyet: Male
+Ilgi Alanı: Yemek Yapma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: rec4WILLUcvpQeOnK
+Ad: Dorotea
+Soyad: Blincko
+Okul: Eskişehir Teknik Üniversitesi
+Şehir: Eskişehir
+Bolum: Elektrik ve Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: E-spor
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recHOOAHh2PQBbR4D
+Ad: Udell
+Soyad: Treadger
+Okul: Bilkent Üniversitesi
+Şehir: Ankara
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recjUiEuCvIrEXgY2
+Ad: Langsdon
+Soyad: Aleksich
+Okul: Anadolu Üniversitesi
+Şehir: Eskişehir
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Müzik
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: reciLsPmAPIR638Lz
+Ad: Elnar
+Soyad: Nuss
+Okul: Haliç Üniversitesi
+Şehir: İstanbul
+Bolum: Tıp
+Cinsiyet: Male
+Ilgi Alanı: Bahçe İşleri
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recnA6SLtgxjkiw4T
+Ad: Marthena
+Soyad: Bruckner
+Okul: İstanbul Bilim Üniversitesi
+Şehir: İstanbul
+Bolum: Arkeoloji
+Cinsiyet: Female
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recDtKXNd099tP7sZ
+Ad: Berkeley
+Soyad: Petracchi
+Okul: İstanbul Haliç Üniversitesi
+Şehir: İstanbul
+Bolum: Ekonomi
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recWoHkHo8YQ22OdR
+Ad: Pascale
+Soyad: Oxbe
+Okul: İzmir Yüksek Teknoloji Enstitüsü
+Şehir: İzmir
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Grafik Tasarım
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recFvXc548jd39b1g
+Ad: Levi
+Soyad: Larrad
+Okul: Akdeniz Üniversitesi
+Şehir: Antalya
+Bolum: Turizm
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: reciL6KIjKsV8EzSs
+Ad: Rory
+Soyad: Jacobowitz
+Okul: Türkiye Yüksek İhtisas Üniversitesi
+Şehir: Ankara
+Bolum: Mimarlık
+Cinsiyet: Male
+Ilgi Alanı: Resim
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: rec95P6pQSw6Bb85o
+Ad: Johanna
+Soyad: Desborough
+Okul: Trakya Üniversitesi
+Şehir: Edirne
+Bolum: İşletme
+Cinsiyet: Female
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recqBPOPLfZT31rxL
+Ad: Aleece
+Soyad: Gawthrop
+Okul: Eskişehir Teknik Üniversitesi
+Şehir: Eskişehir
+Bolum: İşletme
+Cinsiyet: Female
+Ilgi Alanı: Hayvan Bakımı
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: rec608U7K4w3F7qzS
+Ad: Nap
+Soyad: Anderton
+Okul: Nevşehir Hacı Bektaş Veli Üniversitesi
+Şehir: Nevşehir
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Tiyatro
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: reckD09EcEAjD9bV8
+Ad: Brittni
+Soyad: Swansborough
+Okul: Anadolu Üniversitesi Açıköğretim Fakültesi
+Şehir: Eskişehir
+Bolum: Hukuk
+Cinsiyet: Female
+Ilgi Alanı: Fitness
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recKwX9wUJRYyhu85
+Ad: Yolanthe
+Soyad: Rix
+Okul: Bilkent Üniversitesi
+Şehir: Ankara
+Bolum: Tıp
+Cinsiyet: Female
+Ilgi Alanı: Dans
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: rec6zDcImpIzs1H39
+Ad: Johann
+Soyad: Waylen
+Okul: Orta Doğu Teknik Üniversitesi (ODTÜ)
+Şehir: Ankara
+Bolum: Veterinerlik
+Cinsiyet: Male
+Ilgi Alanı: Yemek Yapma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recfXxs9n6pUnK0Wk
+Ad: Daron
+Soyad: Sturmey
+Okul: Erciyes Üniversitesi
+Şehir: Kayseri
+Bolum: Tıp
+Cinsiyet: Male
+Ilgi Alanı: Fitness
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recPdAeH0JEa2X8lz
+Ad: Toni
+Soyad: Cronin
+Okul: Fatih Sultan Mehmet Üniversitesi
+Şehir: İstanbul
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Fotoğrafçılık
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: rec6aSTmsoC1R4pBM
+Ad: Lou
+Soyad: Ruane
+Okul: İstanbul Altınbaş Üniversitesi
+Şehir: İstanbul
+Bolum: Beden Eğitimi ve Spor Öğretmenliği
+Cinsiyet: Male
+Ilgi Alanı: E-spor
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recn3yn9N89Tnsypu
+Ad: Lydie
+Soyad: Beesley
+Okul: Doğuş Üniversitesi
+Şehir: İstanbul
+Bolum: Hukuk
+Cinsiyet: Female
+Ilgi Alanı: Sinema
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************

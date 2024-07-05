@@ -1,0 +1,200 @@
+ID: rec0FEma1r8dvEuoG
+Ad: Patton
+Soyad: Vanderson
+Okul: Marmara Üniversitesi
+Şehir: İstanbul
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Meditasyon
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: rec1YvbtDmRWLULJT
+Ad: Fergus
+Soyad: Hollingsbee
+Okul: İstanbul Üniversitesi
+Şehir: İstanbul
+Bolum: Veterinerlik
+Cinsiyet: Male
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rec4cDmBVE83Q0MQ6
+Ad: Meredeth
+Soyad: Griffe
+Okul: Sabancı Üniversitesi
+Şehir: İstanbul
+Bolum: Hukuk
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recfDfLFL8jvFxzXd
+Ad: Clerc
+Soyad: Killingbeck
+Okul: İstanbul Medipol Üniversitesi
+Şehir: İstanbul
+Bolum: Veterinerlik
+Cinsiyet: Male
+Ilgi Alanı: Yazılım Geliştirme
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recQNgKJl4zkM4HVv
+Ad: Alessandro
+Soyad: Vannoni
+Okul: Sabahattin Zaim Üniversitesi
+Şehir: İstanbul
+Bolum: Elektrik ve Elektronik Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recwBQZ5LjK50ugSh
+Ad: Davine
+Soyad: Palethorpe
+Okul: Bahçeşehir Üniversitesi
+Şehir: İstanbul
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recIsMKhAj9wdVihr
+Ad: Adrian
+Soyad: Swaine
+Okul: Dokuz Eylül Üniversitesi
+Şehir: İzmir
+Bolum: Mimarlık
+Cinsiyet: Male
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recG3hbjn8QX7c0YA
+Ad: Zared
+Soyad: Leete
+Okul: Eskişehir Teknik Üniversitesi
+Şehir: Eskişehir
+Bolum: Makine Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recOHrQ0aqYEaMU0v
+Ad: Alberto
+Soyad: Zute
+Okul: Tekirdağ Namık Kemal Üniversitesi
+Şehir: Tekirdağ
+Bolum: Hukuk
+Cinsiyet: Male
+Ilgi Alanı: Şiir Yazma
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recEOhOLA3sPnAtFa
+Ad: Marcello
+Soyad: Widdison
+Okul: İstanbul Aydın Üniversitesi
+Şehir: İstanbul
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recX2ELbErR1nknBJ
+Ad: Wildon
+Soyad: Parish
+Okul: Fatih Sultan Mehmet Üniversitesi
+Şehir: İstanbul
+Bolum: Eğitim Fakültesi
+Cinsiyet: Male
+Ilgi Alanı: Meditasyon
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: rec2xjiHY1RevoiOX
+Ad: Marve
+Soyad: Barenskie
+Okul: Sabancı Üniversitesi
+Şehir: İstanbul
+Bolum: Orman Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Yoga
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recDtKXNd099tP7sZ
+Ad: Berkeley
+Soyad: Petracchi
+Okul: İstanbul Haliç Üniversitesi
+Şehir: İstanbul
+Bolum: Ekonomi
+Cinsiyet: Female
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rec7S1OaRCxxJCnHe
+Ad: Madelon
+Soyad: Ferby
+Okul: Selçuk Üniversitesi
+Şehir: Konya
+Bolum: Beden Eğitimi ve Spor Öğretmenliği
+Cinsiyet: Female
+Ilgi Alanı: E-spor
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recSHF8XAkaXKKKBF
+Ad: Jo-anne
+Soyad: Espinas
+Okul: İstanbul Ticaret Üniversitesi
+Şehir: İstanbul
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Gönüllülük
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: reclnDimPSVL2Zj3e
+Ad: Urbano
+Soyad: Vallentin
+Okul: Bozok Üniversitesi
+Şehir: Yozgat
+Bolum: Ziraat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Sosyal Medya
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recmlhRdCKHLN55r1
+Ad: Anna-diana
+Soyad: Pallasch
+Okul: İstanbul Üniversitesi-Cerrahpaşa
+Şehir: İstanbul
+Bolum: Veterinerlik
+Cinsiyet: Female
+Ilgi Alanı: Yemek Yapma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recJo6QnaqEfcuFUh
+Ad: Dugald
+Soyad: Spinige
+Okul: Trabzon Üniversitesi
+Şehir: Trabzon
+Bolum: Ekonomi
+Cinsiyet: Male
+Ilgi Alanı: Yemek Yapma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recEioiWhbAMkmLZU
+Ad: Jerri
+Soyad: Cerith
+Okul: Yaşar Üniversitesi
+Şehir: İzmir
+Bolum: Ekonomi
+Cinsiyet: Male
+Ilgi Alanı: Yazılım Geliştirme
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recX641uRKnmKJLfo
+Ad: Nariko
+Soyad: Lambourne
+Okul: Kastamonu Üniversitesi
+Şehir: Kastamonu
+Bolum: Beden Eğitimi ve Spor Öğretmenliği
+Cinsiyet: Female
+Ilgi Alanı: Dans
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************

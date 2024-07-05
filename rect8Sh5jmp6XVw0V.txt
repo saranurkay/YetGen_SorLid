@@ -1,0 +1,200 @@
+ID: rec18UD3IqflZivFE
+Ad: Persis
+Soyad: Beamish
+Okul: Karadeniz Teknik Üniversitesi
+Şehir: Trabzon
+Bolum: İşletme
+Cinsiyet: Female
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rec84jJQDE2ACYoy7
+Ad: Tabbatha
+Soyad: Coghlan
+Okul: Karadeniz Teknik Üniversitesi (KTÜ)
+Şehir: Trabzon
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Resim
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: recNnoNPqPJiUi4AK
+Ad: Ollie
+Soyad: Brizland
+Okul: Kastamonu Üniversitesi
+Şehir: Kastamonu
+Bolum: Orman Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Yazılım Geliştirme
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recYz1a9SBxH2e6SQ
+Ad: Dona
+Soyad: Veevers
+Okul: İstanbul Bilgi Üniversitesi
+Şehir: İstanbul
+Bolum: Ekonomi
+Cinsiyet: Female
+Ilgi Alanı: Koleksiyonculuk
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recG6yRVKcfQuXh3m
+Ad: Efren
+Soyad: Rubinfajn
+Okul: İstanbul Yeni Yüzyıl Üniversitesi
+Şehir: İstanbul
+Bolum: Deniz Bilimleri
+Cinsiyet: Male
+Ilgi Alanı: Satranç
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rec52KojPSLUb1TgX
+Ad: Lennie
+Soyad: Ragat
+Okul: İstanbul Haliç Üniversitesi
+Şehir: İstanbul
+Bolum: Tıp
+Cinsiyet: Male
+Ilgi Alanı: Balık Tutma
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recA1LWd5sGlyhKsp
+Ad: Selle
+Soyad: Gilchriest
+Okul: İzmir Ekonomi Üniversitesi
+Şehir: İzmir
+Bolum: Hukuk
+Cinsiyet: Female
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recaqAFnxfhcrbqvH
+Ad: Isidor
+Soyad: St. Quentin
+Okul: Bursa Uludağ Üniversitesi
+Şehir: Bursa
+Bolum: İnşaat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: rec0dQy5QC2nwLPtb
+Ad: Anastassia
+Soyad: Goodlad
+Okul: Yalova Üniversitesi
+Şehir: Yalova
+Bolum: Bilgisayar Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Web Tasarımı
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: rec2raJ4FCSNwDX4N
+Ad: Yurik
+Soyad: Plaxton
+Okul: Yaşar Üniversitesi
+Şehir: İzmir
+Bolum: Ziraat Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Web Tasarımı
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recp7uwfqlTvTNpD3
+Ad: Asia
+Soyad: John
+Okul: İstanbul Gelişim Üniversitesi
+Şehir: İstanbul
+Bolum: Elektrik-Elektronik Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Kampçılık
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: reck5U660loBvP4Mg
+Ad: Blaine
+Soyad: Savile
+Okul: Yalova Üniversitesi
+Şehir: Yalova
+Bolum: Mühendislik
+Cinsiyet: Male
+Ilgi Alanı: Kitap Okuma
+Ilgi Alanı Kategorisi: Diğer İlgi Alanları
+********************
+ID: recy6RYBi9duGnG2s
+Ad: Dan
+Soyad: Lindenboim
+Okul: Anadolu Üniversitesi Yerleşik
+Şehir: Eskişehir
+Bolum: Makine Mühendisliği
+Cinsiyet: Male
+Ilgi Alanı: Seyahat
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
+ID: recQQNVnIVrYVbbqM
+Ad: Daisie
+Soyad: McArthur
+Okul: Türkiye Odalar ve Borsalar Birliği Üniversitesi
+Şehir: Ankara
+Bolum: Eğitim Fakültesi
+Cinsiyet: Female
+Ilgi Alanı: Dans
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recbgxeCiG5VJ3fIB
+Ad: Hale
+Soyad: Dettmar
+Okul: Muğla Sıtkı Koçman Üniversitesi
+Şehir: Muğla
+Bolum: Tarım Bilimleri
+Cinsiyet: Male
+Ilgi Alanı: Meditasyon
+Ilgi Alanı Kategorisi: Spor ve Sağlık
+********************
+ID: recMUJlkr6iS0Ps4F
+Ad: Boigie
+Soyad: Maharg
+Okul: Lise
+Şehir: İstanbul
+Bolum: Yok
+Cinsiyet: Male
+Ilgi Alanı: Yazılım Geliştirme
+Ilgi Alanı Kategorisi: Teknoloji ve Bilim
+********************
+ID: recWHv4hK2EVIr6FM
+Ad: Jae
+Soyad: Radolf
+Okul: İstanbul Altınbaş Üniversitesi
+Şehir: İstanbul
+Bolum: İktisat
+Cinsiyet: Male
+Ilgi Alanı: Resim
+Ilgi Alanı Kategorisi: Sanat ve Yaratıcılık
+********************
+ID: reci7lQwxRg0uSrVZ
+Ad: Galina
+Soyad: Teresse
+Okul: Ordu Üniversitesi
+Şehir: Ordu
+Bolum: Orman Mühendisliği
+Cinsiyet: Female
+Ilgi Alanı: Hayvan Bakımı
+Ilgi Alanı Kategorisi: Gönüllülük ve Toplumsal Faaliyetler
+********************
+ID: recVHXzdtcguX3Tb2
+Ad: Emory
+Soyad: Avrahm
+Okul: Sabancı Üniversitesi
+Şehir: İstanbul
+Bolum: Tıp
+Cinsiyet: Female
+Ilgi Alanı: Bulmaca Çözme
+Ilgi Alanı Kategorisi: Oyun ve Zeka Aktiviteleri
+********************
+ID: recTauVws3Z4SQHTh
+Ad: Wendall
+Soyad: Atack
+Okul: Ordu Üniversitesi
+Şehir: Ordu
+Bolum: İşletme
+Cinsiyet: Male
+Ilgi Alanı: Balık Tutma
+Ilgi Alanı Kategorisi: Doğa ve Açık Hava Aktiviteleri
+********************
